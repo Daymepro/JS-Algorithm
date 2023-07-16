@@ -1,8 +1,5 @@
-# Computer Science in JavaScript
 
-by [Nicholas C. Zakas](https://humanwhocodes.com)
 
-If you find this useful, please consider supporting my work with a [donation](https://humanwhocodes.com/donate).
 
 ## Description
 
@@ -33,11 +30,6 @@ As I update these, implementations will move from these folders into `src`.
 You must be using Node.js v8 or later.
 
 First, clone the repo:
-
-```
-$ git clone git://github.com/humanwhocodes/computer-science-in-javascript.git
-$ cd computer-science-in-javascript
-```
 
 Then install the dependencies:
 
